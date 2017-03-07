@@ -1,3 +1,12 @@
 
 
 cd repos/sample_website
+
+
+
+    <div style="text-align: right;">
+      <a href="index.html">Home</a>
+      <a href="touch tags.html" style="margin: 0 0 0 10px;">HTML Tags</a>
+      <a href="moby_dick.html" style="margin: 0 0 0 10px;">Moby Dick</a>
+    </div>
+
